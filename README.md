@@ -11,7 +11,6 @@ The Car Rental Management System is a Java-based application designed to streaml
 ✔ **Car Booking & Returns** – Manage car rentals, returns, and billing.  
 ✔ **Data Storage with MySQL** – Store customer and vehicle details securely.  
 ✔ **JDBC Integration** – Java Database Connectivity for seamless database operations.  
-✔ **Data Visualization (Optional)** – Insights into rental trends, revenue, and car utilization.
 
 ### 📊 Dataset & Database Schema
 The MySQL database consists of the following key tables:
