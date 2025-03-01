@@ -1,1 +1,1 @@
-# Car_Rental_Project
+# Car Rental Management System (Java + JDBC + MySQL)
